@@ -1,3 +1,4 @@
 # Tisane
-A Programming language based off of Java. I plan for it to work like this.
-.ti file will be like a .jar file and a .tisane file will be like an .java file
+A Programming language 
+.ti .tisane files will be the file names for the Programming language
+# Stay safe And stay in your home
